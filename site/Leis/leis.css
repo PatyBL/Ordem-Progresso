@@ -138,3 +138,83 @@ body{
 .nav-links .pesquisa-hidden input:focus::placeholder{
     color: #000;
 }
+
+.emendas {
+    width: 90%;
+    max-width: 1200px;
+    margin: 120px auto 40px auto;
+
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.emenda {
+    background-color: rgba(255, 255, 255, 0.65);
+
+    border: 1px solid rgba(45, 106, 119, 0.35);
+    border-left: 5px solid #2d6a77;
+
+    border-radius: 12px;
+
+    padding: 25px 30px;
+
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+
+    transition:
+        transform 0.2s ease,
+        box-shadow 0.2s ease,
+        background-color 0.2s ease;
+}
+
+.emenda:hover {
+    transform: translateY(-3px);
+
+    background-color: rgba(255, 255, 255, 0.85);
+
+    box-shadow: 0 7px 18px rgba(0, 0, 0, 0.12);
+}
+
+.emenda h2 {
+    color: #1d3d45;
+
+    font-family: sans-serif;
+
+    font-size: 1.35rem;
+
+    margin-bottom: 12px;
+}
+
+.emenda p {
+    color: #26383d;
+
+    font-family: sans-serif;
+
+    font-size: 1rem;
+
+    line-height: 1.6;
+
+    text-align: justify;
+}
+
+.erro {
+    background-color: rgba(255, 80, 80, 0.12);
+
+    border: 1px solid rgba(180, 40, 40, 0.4);
+    border-left: 5px solid #b52b2b;
+
+    border-radius: 12px;
+
+    padding: 25px;
+
+    font-family: sans-serif;
+}
+
+.erro h2 {
+    color: #8f2020;
+    margin-bottom: 8px;
+}
+
+.erro p {
+    color: #542020;
+}
