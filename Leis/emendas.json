@@ -398,5 +398,161 @@
   "100": {
     "nome": "Emenda Constitucional nº 100, de 2019",
     "descricao": "Altera os arts. 165 e 166 da Constituição Federal, para tornar obrigatória a execução da programação orçamentária proveniente de emendas de bancada estadual."
+  },
+  "101": {
+    "nome": "Emenda Constitucional nº 101, de 2019",
+    "descricao": "Acrescenta § 3º ao art. 42 da Constituição Federal para estender aos militares dos Estados, do Distrito Federal e dos Territórios o direito à acumulação de cargos públicos prevista no art. 37, inciso XVI."
+  },
+  "102": {
+    "nome": "Emenda Constitucional nº 102, de 2019",
+    "descricao": "Dá nova redação ao art. 20 da Constituição Federal e altera o art. 165 da Constituição Federal e o art. 107 do Ato das Disposições Constitucionais Transitórias."
+  },
+  "103": {
+    "nome": "Emenda Constitucional nº 103, de 2019",
+    "descricao": "Altera o sistema de previdência social e estabelece regras de transição e disposições transitórias."
+  },
+  "104": {
+    "nome": "Emenda Constitucional nº 104, de 2019",
+    "descricao": "Altera o inciso XIV do caput do art. 21, o § 4º do art. 32 e o art. 144 da Constituição Federal, para criar as polícias penais federal, estaduais e distrital."
+  },
+  "105": {
+    "nome": "Emenda Constitucional nº 105, de 2019",
+    "descricao": "Acrescenta o art. 166-A à Constituição Federal, para autorizar a transferência de recursos federais a Estados, ao Distrito Federal e a Municípios mediante emendas ao projeto de lei orçamentária anual."
+  },
+  "106": {
+    "nome": "Emenda Constitucional nº 106, de 2020",
+    "descricao": "Institui regime extraordinário fiscal, financeiro e de contratações para enfrentamento de calamidade pública nacional decorrente de pandemia."
+  },
+  "107": {
+    "nome": "Emenda Constitucional nº 107, de 2020",
+    "descricao": "Adia, em razão da pandemia da Covid-19, as eleições municipais de outubro de 2020 e os prazos eleitorais respectivos."
+  },
+  "108": {
+    "nome": "Emenda Constitucional nº 108, de 2020",
+    "descricao": "Altera a Constituição Federal para estabelecer critérios de distribuição da cota municipal do ICMS, disciplinar a disponibilização de dados contábeis pelos entes federados, tratar do planejamento na ordem social e dispor sobre o Fundeb; altera o Ato das Disposições Constitucionais Transitórias; e dá outras providências."
+  },
+  "109": {
+    "nome": "Emenda Constitucional nº 109, de 2021",
+    "descricao": "Altera os arts. 29-A, 37, 49, 84, 163, 165, 167, 168 e 169 da Constituição Federal e os arts. 101 e 109 do Ato das Disposições Constitucionais Transitórias; acrescenta dispositivos à Constituição Federal; revoga dispositivos do Ato das Disposições Constitucionais Transitórias e institui regras transitórias sobre redução de benefícios tributários; desvincula parcialmente o superávit financeiro de fundos públicos; e suspende condicionalidades para realização de despesas com concessão de auxílio emergencial residual para enfrentar as consequências sociais e econômicas da pandemia da Covid-19."
+  },
+  "110": {
+    "nome": "Emenda Constitucional nº 110, de 2021",
+    "descricao": "Acrescenta o art. 18-A ao Ato das Disposições Constitucionais Transitórias, para dispor sobre a convalidação de atos administrativos praticados no Estado do Tocantins entre 1º de janeiro de 1989 e 31 de dezembro de 1994."
+  },
+  "111": {
+    "nome": "Emenda Constitucional nº 111, de 2021",
+    "descricao": "Altera a Constituição Federal para disciplinar a realização de consultas populares concomitantes às eleições municipais, dispor sobre o instituto da fidelidade partidária, alterar a data de posse de Governadores e do Presidente da República e estabelecer regras transitórias para distribuição entre os partidos políticos dos recursos do fundo partidário e do Fundo Especial de Financiamento de Campanha (FEFC) e para o funcionamento dos partidos políticos."
+  },
+  "112": {
+    "nome": "Emenda Constitucional nº 112, de 2021",
+    "descricao": "Altera o art. 159 da Constituição Federal para disciplinar a distribuição de recursos pela União ao Fundo de Participação dos Municípios."
+  },
+  "113": {
+    "nome": "Emenda Constitucional nº 113, de 2021",
+    "descricao": "Altera a Constituição Federal e o Ato das Disposições Constitucionais Transitórias para estabelecer o novo regime de pagamentos de precatórios, modificar normas relativas ao Novo Regime Fiscal e autorizar o parcelamento de débitos previdenciários dos Municípios; e dá outras providências."
+  },
+  "114": {
+    "nome": "Emenda Constitucional nº 114, de 2021",
+    "descricao": "Altera a Constituição Federal e o Ato das Disposições Constitucionais Transitórias para estabelecer o novo regime de pagamentos de precatórios, modificar normas relativas ao Novo Regime Fiscal e autorizar o parcelamento de débitos previdenciários dos Municípios; e dá outras providências."
+  },
+  "115": {
+    "nome": "Emenda Constitucional nº 115, de 2022",
+    "descricao": "Altera a Constituição Federal para incluir a proteção de dados pessoais entre os direitos e garantias fundamentais e para fixar a competência privativa da União para legislar sobre proteção e tratamento de dados pessoais."
+  },
+  "116": {
+    "nome": "Emenda Constitucional nº 116, de 2022",
+    "descricao": "Acrescenta § 1º-A ao art. 156 da Constituição Federal para prever a não incidência sobre templos de qualquer culto do Imposto sobre a Propriedade Predial e Territorial Urbana (IPTU), ainda que as entidades abrangidas pela imunidade tributária sejam apenas locatárias do bem imóvel."
+  },
+  "117": {
+    "nome": "Emenda Constitucional nº 117, de 2022",
+    "descricao": "Altera o art. 17 da Constituição Federal para impor aos partidos políticos a aplicação de recursos do fundo partidário na promoção e difusão da participação política das mulheres, bem como a aplicação de recursos desse fundo e do Fundo Especial de Financiamento de Campanha e a divisão do tempo de propaganda gratuita no rádio e na televisão no percentual mínimo de 30% (trinta por cento) para candidaturas femininas."
+  },
+  "118": {
+    "nome": "Emenda Constitucional nº 118, de 2022",
+    "descricao": "Dá nova redação às alíneas \"b\" e \"c\" do inciso XXIII do caput do art. 21 da Constituição Federal, para autorizar a produção, a comercialização e a utilização de radioisótopos para pesquisa e uso médicos."
+  },
+  "119": {
+    "nome": "Emenda Constitucional nº 119, de 2022",
+    "descricao": "Altera o Ato das Disposições Constitucionais Transitórias para determinar a impossibilidade de responsabilização dos Estados, do Distrito Federal, dos Municípios e dos agentes públicos desses entes federados pelo descumprimento, nos exercícios financeiros de 2020 e 2021, do disposto no caput do art. 212 da Constituição Federal; e dá outras providências."
+  },
+  "120": {
+    "nome": "Emenda Constitucional nº 120, de 2022",
+    "descricao": "Acrescenta §§ 7º, 8º, 9º, 10 e 11 ao art. 198 da Constituição Federal, para dispor sobre a responsabilidade financeira da União, corresponsável pelo Sistema Único de Saúde (SUS), na política remuneratória e na valorização dos profissionais que exercem atividades de agente comunitário de saúde e de agente de combate às endemias."
+  },
+  "121": {
+    "nome": "Emenda Constitucional nº 121, de 2022",
+    "descricao": "Altera o inciso IV do § 2º do art. 4º da Emenda Constitucional nº 109, de 15 de março de 2021."
+  },
+  "122": {
+    "nome": "Emenda Constitucional nº 122, de 2022",
+    "descricao": "Altera a Constituição Federal para elevar para setenta anos a idade máxima para a escolha e nomeação de membros do Supremo Tribunal Federal, do Superior Tribunal de Justiça, dos Tribunais Regionais Federais, do Tribunal Superior do Trabalho, dos Tribunais Regionais do Trabalho, do Tribunal de Contas da União e dos Ministros civis do Superior Tribunal Militar."
+  },
+  "123": {
+    "nome": "Emenda Constitucional nº 123, de 2022",
+    "descricao": "Altera o art. 225 da Constituição Federal para estabelecer diferencial de competitividade para os biocombustíveis; inclui o art. 120 no Ato das Disposições Constitucionais Transitórias para reconhecer o estado de emergência decorrente da elevação extraordinária e imprevisível dos preços do petróleo, combustíveis e seus derivados e dos impactos sociais dela decorrentes; autoriza a União a entregar auxílio financeiro aos Estados e ao Distrito Federal que outorgarem créditos tributários do ICMS aos produtores e distribuidores de etanol hidratado; expande o Auxílio Gás dos Brasileiros; institui auxílio para caminhoneiros autônomos; expande o Programa Auxílio Brasil; e institui auxílio para entes da Federação financiarem a gratuidade do transporte público."
+  },
+  "124": {
+    "nome": "Emenda Constitucional nº 124, de 2022",
+    "descricao": "Institui o piso salarial nacional do enfermeiro, do técnico de enfermagem, do auxiliar de enfermagem e da parteira."
+  },
+  "125": {
+    "nome": "Emenda Constitucional nº 125, de 2022",
+    "descricao": "Altera o art. 105 da Constituição Federal para instituir no recurso especial o requisito da relevância das questões de direito federal infraconstitucional."
+  },
+  "126": {
+    "nome": "Emenda Constitucional nº 126, de 2022",
+    "descricao": "Altera a Constituição Federal, para dispor sobre as emendas individuais ao projeto de lei orçamentária, e o Ato das Disposições Constitucionais Transitórias para excluir despesas dos limites previstos no art. 107; define regras para a transição da Presidência da República aplicáveis à Lei Orçamentária de 2023; e dá outras providências."
+  },
+  "127": {
+    "nome": "Emenda Constitucional nº 127, de 2022",
+    "descricao": "Altera a Constituição Federal e o Ato das Disposições Constitucionais Transitórias para estabelecer que compete à União prestar assistência financeira complementar aos Estados, ao Distrito Federal e aos Municípios e às entidades filantrópicas, para o cumprimento dos pisos salariais profissionais nacionais para o enfermeiro, o técnico de enfermagem, o auxiliar de enfermagem e a parteira; altera a Emenda Constitucional nº 109, de 15 de março de 2021, para estabelecer o superávit financeiro dos fundos públicos do Poder Executivo como fonte de recursos para o cumprimento dos pisos salariais profissionais nacionais para o enfermeiro, o técnico de enfermagem, o auxiliar de enfermagem e a parteira; e dá outras providências."
+  },
+  "128": {
+    "nome": "Emenda Constitucional nº 128, de 2022",
+    "descricao": "Acrescenta § 7º ao art. 167 da Constituição Federal, para proibir a imposição e a transferência, por lei, de qualquer encargo financeiro decorrente da prestação de serviço público para a União, os Estados, o Distrito Federal e os Municípios."
+  },
+  "129": {
+    "nome": "Emenda Constitucional nº 129, de 2023",
+    "descricao": "Acrescenta o art. 123 ao Ato das Disposições Constitucionais Transitórias, para assegurar prazo de vigência adicional aos instrumentos de permissão lotérica."
+  },
+  "130": {
+    "nome": "Emenda Constitucional nº 130, de 2023",
+    "descricao": "Altera o art. 93 da Constituição Federal para permitir a permuta entre juízes de direito vinculados a diferentes tribunais."
+  },
+  "131": {
+    "nome": "Emenda Constitucional nº 131, de 2023",
+    "descricao": "Altera o art. 12 da Constituição Federal para suprimir a perda da nacionalidade brasileira em razão da mera aquisição de outra nacionalidade, incluir a exceção para situações de apatridia e acrescentar a possibilidade de a pessoa requerer a perda da própria nacionalidade."
+  },
+  "132": {
+    "nome": "Emenda Constitucional nº 132, de 2023",
+    "descricao": "Altera o Sistema Tributário Nacional."
+  },
+  "133": {
+    "nome": "Emenda Constitucional nº 133, de 2024",
+    "descricao": "Impõe aos partidos políticos a obrigatoriedade da aplicação de recursos financeiros para candidaturas de pessoas pretas e pardas; estabelece parâmetros e condições para regularização e refinanciamento de débitos de partidos políticos; e reforça a imunidade tributária dos partidos políticos conforme prevista na Constituição Federal."
+  },
+  "134": {
+    "nome": "Emenda Constitucional nº 134, de 2024",
+    "descricao": "Altera o art. 96 da Constituição Federal, para dispor sobre a eleição dos órgãos diretivos de Tribunais de Justiça."
+  },
+  "135": {
+    "nome": "Emenda Constitucional nº 135, de 2024",
+    "descricao": "Altera os arts. 37, 163, 165, 212-A e 239 da Constituição Federal e o Ato das Disposições Constitucionais Transitórias (ADCT)."
+  },
+  "136": {
+    "nome": "Emenda Constitucional nº 136, de 2025",
+    "descricao": "Altera a Constituição Federal, o Ato das Disposições Constitucionais Transitórias e a Emenda Constitucional nº 113, de 8 de dezembro de 2021, a fim de instituir limite para o pagamento de precatórios pelos Estados, pelo Distrito Federal e pelos Municípios e de estipular novo prazo de parcelamento especial de débitos dos Estados, dos Municípios e do Distrito Federal com seus regimes próprios de previdência social e dos Municípios com o Regime Geral de Previdência Social; e dá outras providências."
+  },
+  "137": {
+    "nome": "Emenda Constitucional nº 137, de 2025",
+    "descricao": "Altera o art. 155 da Constituição Federal para conceder imunidade do Imposto sobre a Propriedade de Veículos Automotores (IPVA) aos veículos que especifica."
+  },
+  "138": {
+    "nome": "Emenda Constitucional nº 138, de 2025",
+    "descricao": "Altera o art. 37 da Constituição Federal para permitir a acumulação remunerada de um cargo de professor com outro de qualquer natureza."
+  },
+  "139": {
+    "nome": "Emenda Constitucional nº 139, de 2026",
+    "descricao": "Altera o § 1º do art. 31 e o art. 75 da Constituição Federal para estabelecer os Tribunais de Contas como órgãos permanentes e essenciais ao controle externo da administração pública."
   }
 }
