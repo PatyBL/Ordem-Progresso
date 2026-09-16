@@ -17,7 +17,7 @@
         <!-- Opções para navegar em diferentes partes do site -->
             <ul class="nav-links">
                 <li><a href="index.html">Início</a></li>
-                <li><a href="Leis/leis.html" id="section1">Leis</a></li>
+                <li><a href="Leis/leis.html" id="section1">Emendas</a></li>
             </ul>
         </div>
     </header>
@@ -47,7 +47,7 @@
                 </a>
 
                 <!-- CONSTITUIÇÃO -->
-                <a href="#" class="sidebar-link">
+                <a class="sidebar-link" onclick="scrool('textos', 'start')">
                     <span class="sidebar-icon">
                         📚
                     </span>
@@ -56,11 +56,8 @@
                     </span>
                 </a>
 
-                <!-- Espaço -->
-                <div class="sidebar-space"></div>
-
                 <!-- SOBRE -->
-                <a href="#" class="sidebar-link">
+                <a class="sidebar-link" onclick="scrool('inf', 'center')">
                     <span class="sidebar-icon">
                         ℹ️
                     </span>
@@ -68,17 +65,10 @@
                         Sobre
                     </span>
                 </a>
-                <!-- CONTATO -->
-                <a href="#" class="sidebar-link">
-                    <span class="sidebar-icon">
-                        📞
-                    </span>
-                    <span>
-                        Contato
-                    </span>
-                </a>
             </nav>
         </aside>
+
+
 
         <!-- ==============================================
              Textos
@@ -629,12 +619,72 @@
         </section>
         
         
+
+        <!-- ==============================================
+            Informações da pagina
+        =============================================== -->
+        <section class="inf">
+            <h2>Sobre o Projeto</h2>
+            
+            <p>
+                Este projeto consiste em uma proposta de reformulação visual e funcional
+                da apresentação da Constituição da República Federativa do Brasil,
+                desenvolvida com finalidade exclusivamente educacional e escolar.
+            </p>
+            <p>
+                O objetivo principal é proporcionar uma experiência de leitura mais
+                organizada, acessível e intuitiva, utilizando uma estrutura visual
+                simplificada e recursos de pesquisa que facilitam a localização de
+                artigos, emendas constitucionais e demais conteúdos presentes no
+                documento.
+            </p>
+            <p>
+                Durante o desenvolvimento, foram realizadas melhorias na organização
+                dos títulos, artigos e seções, além da implementação de mecanismos de
+                pesquisa e navegação destinados a tornar a consulta ao conteúdo mais
+                prática para diferentes públicos.
+            </p>
+            <p>
+                É importante destacar que este projeto possui caráter estritamente
+                acadêmico e de apresentação. A reformulação proposta modifica apenas a
+                forma de apresentação e interação com o conteúdo, não tendo como
+                finalidade alterar, substituir, revogar, interpretar oficialmente ou
+                modificar qualquer dispositivo da Constituição Federal ou de suas
+                normas oficiais.
+            </p>
+            <p>
+                O conteúdo constitucional oficial deve ser sempre consultado nas fontes
+                institucionais competentes. Para acesso direto ao texto oficial da
+                Constituição da República Federativa do Brasil, consulte o
+                <a href="https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+                target="_blank"
+                rel="noopener noreferrer">
+                    site oficial da Presidência da República
+                </a>.
+            </p>
+            <p>
+                O desenvolvimento deste projeto foi realizado integralmente por
+                Nicolas Gabriel, como parte de um projeto escolar, sem finalidade
+                comercial ou lucrativa. A proposta concentra-se no desenvolvimento
+                técnico, na organização da informação e na melhoria da experiência de
+                consulta ao documento.
+            </p>
+        </section>
+
+
+
         <!-- ==============================================
             Footer
         =============================================== -->
         <footer>
-            Republica Federativa do Brasil - 1988
+            <p>Republica Federativa do Brasil - 1988</p>
+            <a href="https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+            target="_blank"
+            rel="noopener noreferrer">
+                Site Oficial.
+            </a>
         </footer>
 
+        <script src="/site/index_addons/Index.js"></script>
     </body>
 </html>
